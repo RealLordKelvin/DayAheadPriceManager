@@ -1,0 +1,22 @@
+
+
+
+.registerform {
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 50px 50px;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+}
+
+button:hover {
+    background-color: rgb(255, 94, 77);
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(249, 15, 11);
+}

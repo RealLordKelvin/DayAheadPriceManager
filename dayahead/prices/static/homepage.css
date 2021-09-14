@@ -1,0 +1,23 @@
+
+
+body {
+    display:flex;
+}
+
+.login_container {
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 50px 50px;
+    background-color: white;
+    border-radius: 40px;
+    margin: 0 auto;
+    width: 500px;
+    margin-top: 200px;
+    margin-left: 200px;
+    
+}
+
+
+
+a { color:rgb(0, 0, 0);}
